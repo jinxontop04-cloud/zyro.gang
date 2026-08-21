@@ -2,8 +2,8 @@ import "./globals.css";
 import { Providers } from "./providers";
 
 export const metadata = {
-  title: "Biolink.WTF — Aesthetic Bio Links",
-  description: "Advanced bio link platform inspired by guns.lol and lethal.wtf",
+  title: "zyro.lol — Aesthetic Bio Links",
+  description: "zyro.lol app for ur desing profile",
 };
 
 export default function RootLayout({
